@@ -24,17 +24,9 @@ A página apresenta uma introdução sobre mim, meus hobbies e formas de contato
 Você pode ver o site funcionando aqui:  
 👉 (https://nathaliajurgina.github.io/meu-primeiro-site/)
 
-> 🔁 Substitua `MEU-PROJETO` pelo nome exato do seu repositório (por exemplo: `primeiro-site`)
-
-## 📸 Imagem usada
-
-Certifique-se de que a imagem `nathalia.jpg` está no repositório também para que ela apareça corretamente.
-
----
-
 ## ✍️ Aprendizados
 
-- Como estruturar uma página com HTML semântico
+- Como estruturar uma página com HTML 
 - Como usar atributos de acessibilidade (`aria-labelledby`)
 - Como adicionar imagens e links
 - Como publicar um projeto usando GitHub Pages

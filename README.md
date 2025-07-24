@@ -22,7 +22,7 @@ A página apresenta uma introdução sobre mim, meus hobbies e formas de contato
 ## 📂 Acessar o projeto online
 
 Você pode ver o site funcionando aqui:  
-👉 [https://nathaliajurgina.github.io/MEU-PROJETO/](https://nathaliajurgina.github.io/MEU-PROJETO/)
+👉 [[https://nathaliajurgina.github.io/MEU-PROJETO/](https://nathaliajurgina.github.io/MEU-PROJETO/)](https://nathaliajurgina.github.io/meu-primeiro-site/)
 
 > 🔁 Substitua `MEU-PROJETO` pelo nome exato do seu repositório (por exemplo: `primeiro-site`)
 
